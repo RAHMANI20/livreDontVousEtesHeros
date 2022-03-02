@@ -1,0 +1,13 @@
+./src/createStory/AddReponse.java
+./src/createStory/CreateBookPage.java
+./src/createStory/EditReponse.java
+./src/createStory/ManageBook.java
+./src/graphs/Noeud.java
+./src/graphs/Reponse.java
+./src/playStory/GamePage.java
+./src/playStory/PlayBookPage.java
+./src/tools/ImagePanel.java
+./src/tools/SettingsPage.java
+./src/tools/XmlBackup.java
+./src/welcome/Main.java
+./src/welcome/StartPage.java

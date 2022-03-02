@@ -1,0 +1,13 @@
+./classes/createStory/AddReponse.java
+./classes/createStory/CreateBookPage.java
+./classes/createStory/EditReponse.java
+./classes/createStory/ManageBook.java
+./classes/graphs/Noeud.java
+./classes/graphs/Reponse.java
+./classes/playStory/GamePage.java
+./classes/playStory/PlayBookPage.java
+./classes/tools/ImagePanel.java
+./classes/tools/SettingsPage.java
+./classes/tools/XmlBackup.java
+./classes/welcome/Main.java
+./classes/welcome/StartPage.java
